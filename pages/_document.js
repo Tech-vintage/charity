@@ -9,7 +9,7 @@ class MyDocument extends Document {
   render() {
     const meta = {
       title: 'About Charity',
-      description: 'Charity Mbisi personal portifolio.',
+      description: 'Charity Mbisi, Software Engineer Personal portifolio.',
       image:
         'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
     }
